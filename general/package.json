@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/PGS-dev/eslint/issues"
   },
-  "homepage": "https://github.com/PGS-dev/eslint#readme",
+  "homepage": "https://github.com/PGS-dev/eslint/tree/master/general#README",
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^15.1.0",
