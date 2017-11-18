@@ -1,8 +1,9 @@
 module.exports = {
-  "extends": ["./.eslintrc-defaults"],
+  "extends": ["./.eslintrc-defaults.js"],
   "plugins": [
     "react"
   ],
+  "parser": "babel-eslint",
   "rules": {
     "react/require-default-props": "off",
     "react/jsx-filename-extension": ["error", {
